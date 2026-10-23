@@ -1,0 +1,9 @@
+export { Hero } from "./Hero";
+export { About } from "./About";
+export { Skills } from "./Skills";
+export { Projects } from "./Projects";
+export { DSA } from "./DSA";
+export { CloudLab } from "./CloudLab";
+export { BuildLog } from "./BuildLog";
+export { Achievements } from "./Achievements";
+export { Contact } from "./Contact";
